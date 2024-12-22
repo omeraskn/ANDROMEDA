@@ -1,4 +1,4 @@
-# StakeX: Token Staking and Rewards DApp on Andromeda  
+# CosmoStake: Token Staking and Rewards DApp on Andromeda  
 
 ## Project Description  
 **CosmoStake** is a decentralized application (DApp) that allows users to stake their tokens and earn rewards seamlessly on the Andromeda Network. Built using the Andromeda Protocol App Builder and React, StakeX combines secure staking functionality with an intuitive user interface, empowering users to maximize their earnings while contributing to network security.  
