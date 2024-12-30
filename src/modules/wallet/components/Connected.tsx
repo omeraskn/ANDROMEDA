@@ -32,6 +32,7 @@ const Connected: FC<ConnectedProps> = (props) => {
               variant="outline"
               size="lg"
               borderColor={isOpen ? "primary.600" : "gray.300"}
+              opacity={1}
             >
               <HStack mr='2'>
                 <Image src={config?.iconUrls?.sm ?? ""} w="5" />
@@ -61,6 +62,7 @@ const Connected: FC<ConnectedProps> = (props) => {
                   colorScheme={
                     config?.chainType === "mainnet" ? "green" : "purple"
                   }
+                  opacity={1}
                   fontSize={8}
                   py="1"
                   rounded="full"
@@ -88,6 +90,7 @@ const Connected: FC<ConnectedProps> = (props) => {
                   variant="outline"
                   fontWeight={500}
                   color="gray.700"
+                  opacity={1}
                   w="full"
                   size="sm"
                 >

@@ -18,6 +18,7 @@ const ConnectWallet: FC<ConnectWalletProps> = (props) => {
     <Button
       leftIcon={<PlusSquareIcon boxSize={5} />}
       colorScheme="purple"
+      opacity={1}
       onClick={() => connectAndromedaClient()}
       isLoading={isLoading}
     >

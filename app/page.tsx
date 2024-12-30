@@ -27,7 +27,7 @@ const Page: React.FC<Props> = () => {
                     Andromeda Nextjs Starter Template
                 </Text>
                 <Text>
-                    Click button to connect <b>Andromeda Devnet</b>.
+                    Click button to connect <b>Andromeda Testnet</b>.
                 </Text>
                 <Text fontWeight="light" mb="6">
                     Learn more about Andromeda&nbsp;
