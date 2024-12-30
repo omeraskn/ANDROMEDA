@@ -17,7 +17,8 @@
 *(On the way.)*  
 
 ## Screenshots  
-*(On the way.)*  
+![image](https://github.com/user-attachments/assets/9d921320-a52e-4410-9905-303afbd56575)
+
 
 ## Future Scope  
 - Support for multiple token types.  
